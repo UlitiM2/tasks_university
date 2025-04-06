@@ -1,0 +1,13 @@
+m u 5 4 3 5 4 
+maria ulitina 4 5 4 3 5 
+m u 5 2 4 3 5 
+h y 5 5 5 5 5 
+n y 5 4 5 4 4 
+m u 5 6 5 5 5 
+m u 5 5 5 5 5 
+Mary  5 4 5 3 5 
+m  5 5 4 5 5 
+m u 4 5 4 5 5 
+m u 5 4 4 5 4 
+maria ulitina ulit 5 4 5 5 5 
+m u 5 5 5 5 5 

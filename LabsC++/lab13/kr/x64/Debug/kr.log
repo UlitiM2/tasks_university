@@ -1,0 +1,8 @@
+﻿  human.cpp
+  kr.cpp
+C:\Users\mashu\LabsC++\lab13\kr\student.h(19,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  student.cpp
+C:\Users\mashu\LabsC++\lab13\kr\student.h(19,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  teacher.cpp
+  Создание кода...
+  kr.vcxproj -> C:\Users\mashu\LabsC++\lab13\x64\Debug\kr.exe

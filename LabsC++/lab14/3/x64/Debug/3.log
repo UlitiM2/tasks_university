@@ -1,0 +1,27 @@
+﻿  3.cpp
+C:\Users\mashu\LabsC++\lab14\3\3.cpp(32,23): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mashu\LabsC++\lab14\3\3.cpp(32,28): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mashu\LabsC++\lab14\3\3.cpp(32,33): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mashu\LabsC++\lab14\3\3.cpp(32,38): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mashu\LabsC++\lab14\3\3.cpp(32,48): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+  3.vcxproj -> C:\Users\mashu\LabsC++\lab14\x64\Debug\3.exe

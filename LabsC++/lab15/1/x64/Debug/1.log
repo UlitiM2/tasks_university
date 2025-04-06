@@ -1,0 +1,75 @@
+﻿  1.cpp
+C:\Users\mashu\LabsC++\lab15\1\Group.h(13,21): error C2676: бинарный "<": "const Student" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\mashu\LabsC++\lab15\1\Group.h(29,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\mashu\LabsC++\lab15\1\Group.h(29,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mashu\LabsC++\lab15\1\Group.h(29,25): error C2238: непредвиденные лексемы перед ";"
+C:\Users\mashu\LabsC++\lab15\1\Group.h(30,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\mashu\LabsC++\lab15\1\Group.h(30,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mashu\LabsC++\lab15\1\Group.h(30,21): error C2039: "iterator": не является членом "`global namespace'".
+C:\Users\mashu\LabsC++\lab15\1\Group.h(30,34): error C2238: непредвиденные лексемы перед ";"
+C:\Users\mashu\LabsC++\lab15\1\Group.h(31,12): error C3646: groupName: неизвестный спецификатор переопределения
+C:\Users\mashu\LabsC++\lab15\1\Group.h(31,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mashu\LabsC++\lab15\1\Group.h(32,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\mashu\LabsC++\lab15\1\Group.h(32,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mashu\LabsC++\lab15\1\Group.h(32,49): error C2238: непредвиденные лексемы перед ";"
+C:\Users\mashu\LabsC++\lab15\1\Student.h(12,24): error C2676: бинарный "<": "const Student" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\mashu\LabsC++\lab15\1\1.cpp(7,66): error C2065: idc2: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\1.cpp(8,70): error C2065: idc: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\1.cpp(9,62): error C2065: idc2: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\1.cpp(10,70): error C2065: idc: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\1.cpp(22,5): error C2065: cout: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\1.cpp(22,79): error C2065: endl: необъявленный идентификатор
+  Group.cpp
+C:\Users\mashu\LabsC++\lab15\1\Group.h(13,21): error C2676: бинарный "<": "const Student" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\mashu\LabsC++\lab15\1\Group.h(29,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\mashu\LabsC++\lab15\1\Group.h(29,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mashu\LabsC++\lab15\1\Group.h(29,25): error C2238: непредвиденные лексемы перед ";"
+C:\Users\mashu\LabsC++\lab15\1\Group.h(30,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\mashu\LabsC++\lab15\1\Group.h(30,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mashu\LabsC++\lab15\1\Group.h(30,21): error C2039: "iterator": не является членом "`global namespace'".
+C:\Users\mashu\LabsC++\lab15\1\Group.h(30,34): error C2238: непредвиденные лексемы перед ";"
+C:\Users\mashu\LabsC++\lab15\1\Group.h(31,12): error C3646: groupName: неизвестный спецификатор переопределения
+C:\Users\mashu\LabsC++\lab15\1\Group.h(31,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mashu\LabsC++\lab15\1\Group.h(32,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\mashu\LabsC++\lab15\1\Group.h(32,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mashu\LabsC++\lab15\1\Group.h(32,49): error C2238: непредвиденные лексемы перед ";"
+C:\Users\mashu\LabsC++\lab15\1\Student.h(12,24): error C2676: бинарный "<": "const Student" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(7,46): error C2614: Group: недопустимая инициализация члена: "groupName" не является базовым классом или членом
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(10,12): error C2065: groupName: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(14,12): error C2065: masSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(18,5): error C2065: masSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(19,5): error C2065: setMasSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(23,5): error C2065: masSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(24,5): error C2065: setMasSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(28,5): error C2065: iter: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(28,12): error C2065: masSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(29,12): error C2065: iter: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(29,20): error C2065: masSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(30,11): error C2065: iter: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(33,17): error C2511: Student *Group::findStudent(std::string,std::string): перегруженная функция-член не найдена в "Group"
+C:\Users\mashu\LabsC++\lab15\1\Group.h(17,7): message : см. объявление "Group"
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(35,15): error C2065: setMasSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(36,9): error C3536: it: не может использоваться до инициализации
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(36,15): error C2065: setMasSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(37,16): error C2100: недопустимое косвенное обращение
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(43,20): error C2065: setMasSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(43,38): error C3536: it: не может использоваться до инициализации
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(43,44): error C2065: setMasSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(44,28): error C2100: недопустимое косвенное обращение
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(44,26): error C2440: инициализация: невозможно преобразовать "int" в "Student *"
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(44,26): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(45,9): error C2065: setMasSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(46,9): error C2065: masSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(48,5): error C2065: setMasSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(49,26): error C2065: masSt: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(49,5): error C2530: student: ссылки должны быть инициализированы
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(49,5): error C3531: student: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(49,24): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(49,31): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\Users\mashu\LabsC++\lab15\1\Group.cpp(50,9): error C2065: setMasSt: необъявленный идентификатор
+  Student.cpp
+C:\Users\mashu\LabsC++\lab15\1\Student.h(9,35): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mashu\LabsC++\lab15\1\Student.h(9,35): error C2143: синтаксическая ошибка: отсутствие "," перед "*"
+C:\Users\mashu\LabsC++\lab15\1\Student.h(12,17): error C2065: ptrSt1: необъявленный идентификатор
+C:\Users\mashu\LabsC++\lab15\1\Student.h(12,27): error C2065: ptrSt2: необъявленный идентификатор
+  Создание кода...

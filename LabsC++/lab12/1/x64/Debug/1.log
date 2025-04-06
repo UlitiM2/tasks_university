@@ -1,0 +1,5 @@
+﻿  1.cpp
+C:\Users\mashu\LabsC++\lab12\1\student.h(18,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  teacher.cpp
+  Создание кода...
+  1.vcxproj -> C:\Users\mashu\LabsC++\lab12\x64\Debug\1.exe

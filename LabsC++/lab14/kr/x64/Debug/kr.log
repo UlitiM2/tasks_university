@@ -1,0 +1,5 @@
+﻿  kr.cpp
+C:\Users\mashu\LabsC++\lab14\kr\kr.cpp(21,45): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\mashu\LabsC++\lab14\kr\kr.cpp(21,45): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\mashu\LabsC++\lab14\kr\kr.cpp(21,45): warning C4309: инициализация: усечение константного значения
+  kr.vcxproj -> C:\Users\mashu\LabsC++\lab14\x64\Debug\kr.exe

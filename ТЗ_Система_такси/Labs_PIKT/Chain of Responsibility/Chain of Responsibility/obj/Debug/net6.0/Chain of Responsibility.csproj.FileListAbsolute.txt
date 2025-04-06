@@ -1,0 +1,4 @@
+C:\Users\mashu\Labs_PIKT\Chain of Responsibility\Chain of Responsibility\obj\Debug\net6.0\Chain of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mashu\Labs_PIKT\Chain of Responsibility\Chain of Responsibility\obj\Debug\net6.0\Chain of Responsibility.AssemblyInfoInputs.cache
+C:\Users\mashu\Labs_PIKT\Chain of Responsibility\Chain of Responsibility\obj\Debug\net6.0\Chain of Responsibility.AssemblyInfo.cs
+C:\Users\mashu\Labs_PIKT\Chain of Responsibility\Chain of Responsibility\obj\Debug\net6.0\Chain of Responsibility.csproj.CoreCompileInputs.cache

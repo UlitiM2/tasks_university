@@ -1,0 +1,5 @@
+﻿  1.cpp
+C:\Users\mashu\LabsC++\lab10\1\1.cpp(37,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  kr.cpp
+  Создание кода...
+  1.vcxproj -> C:\Users\mashu\LabsC++\lab10\x64\Debug\1.exe
